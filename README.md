@@ -1,5 +1,3 @@
-# I-V-analysis-of-MOSFET
-
 # MOSFET I-V Characteristics Simulation
 
 This MATLAB script simulates and plots the I-V characteristics of an nMOS or pMOS transistor by inputing diffrent values of Vgs, Vds_mim, Vds_max, allowing users to analyze MOSFET behavior in different operating regions.
