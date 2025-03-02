@@ -1,6 +1,6 @@
 clc; clear; close all;
 
-while true
+while true 
     try
         % User Inputs for MOSFET Parameters
         type = input('Enter MOSFET type (n for nMOS, p for pMOS): ', 's');
